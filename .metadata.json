@@ -1,0 +1,10 @@
+[
+  {
+    "package": "daterangepicker",
+    "oncran": true
+  },
+  {
+    "package": "leaflet.extras2",
+    "oncran": true
+  }
+]
