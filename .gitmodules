@@ -8,6 +8,11 @@
 	url = https://github.com/trafficonese/daterangepicker
 	shallow = true
 	registered = true
+[submodule "leaflet.esri"]
+	path = leaflet.esri
+	url = https://github.com/trafficonese/leaflet.esri
+	shallow = true
+	registered = true
 [submodule "leaflet.extras2"]
 	path = leaflet.extras2
 	url = https://github.com/trafficonese/leaflet.extras2

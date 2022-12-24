@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "leaflet.esri",
+    "oncran": true
+  },
+  {
     "package": "leaflet.extras2",
     "oncran": true
   }
