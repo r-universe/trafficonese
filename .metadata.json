@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "leaflet.esri",
+    "package": "leaflet.extras2",
     "oncran": true
   },
   {
-    "package": "leaflet.extras2",
+    "package": "leaflet.esri",
     "oncran": true
   }
 ]
