@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "daterangepicker"]
 	path = daterangepicker
 	url = https://github.com/trafficonese/daterangepicker
-	shallow = true
-	registered = true
 [submodule "leaflet.esri"]
 	path = leaflet.esri
 	url = https://github.com/trafficonese/leaflet.esri
-	shallow = true
-	registered = true
 [submodule "leaflet.extras2"]
 	path = leaflet.extras2
 	url = https://github.com/trafficonese/leaflet.extras2
-	shallow = true
-	registered = true
