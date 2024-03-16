@@ -14,3 +14,6 @@
 [submodule "leaflet.extras2"]
 	path = leaflet.extras2
 	url = https://github.com/trafficonese/leaflet.extras2
+[submodule "widgetframe"]
+	path = widgetframe
+	url = https://github.com/trafficonese/widgetframe
