@@ -5,9 +5,6 @@
 [submodule "daterangepicker"]
 	path = daterangepicker
 	url = https://github.com/trafficonese/daterangepicker
-[submodule "leaflet.extras"]
-	path = leaflet.extras
-	url = https://github.com/trafficonese/leaflet.extras
 [submodule "leaflet.extras2"]
 	path = leaflet.extras2
 	url = https://github.com/trafficonese/leaflet.extras2
